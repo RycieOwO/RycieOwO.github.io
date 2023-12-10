@@ -65,6 +65,8 @@ a.active,a:hover {
     margin-right: 40px;
     margin-top: 15px;
     display: none;
+    position: relative;
+    z-index: 5;
 }
 
 #check {
@@ -84,7 +86,6 @@ a.active,a:hover {
 @media (max-width: 858px) {
     .checkbtn {
         display: block;
-        z-index: 5;
     }
     nav ul {
     	position: fixed;
