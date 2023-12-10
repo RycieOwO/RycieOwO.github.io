@@ -157,7 +157,6 @@ a.active,a:hover {
     border-radius: 0 150px 150px 0; /* round shape on the right side */
     /* MORE STYLEEEE*/
     box-shadow: 5px 10px 15px 0px rgba(0,0,0,0.15);
-    z-index: 2;
 }
 
 .shape h2 {
@@ -195,7 +194,6 @@ a.active,a:hover {
     border-radius: 150px 0 0 150px; /* round shape on the left side */
     /* MORE STYLEEEE*/
     box-shadow: 5px 10px 15px 0px rgba(0,0,0,0.15);
-    z-index: 1;
 }
 
 .shape1 h2 {
