@@ -1,5 +1,6 @@
 html, a, label.logo, nav, *, shape, #check, .checkbtn, padding, nav ul {
     cursor: url(hand-solid.svg), auto;
+    color: #9dc3f5;
 }
 
 * {
