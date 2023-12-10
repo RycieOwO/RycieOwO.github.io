@@ -1,4 +1,4 @@
-html {
+html, a, label.logo, nav, *, shape {
     cursor: url(hand-solid.svg), auto;
 }
 
