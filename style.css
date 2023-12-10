@@ -131,6 +131,6 @@ a.active,a:hover {
     text-align: center;
     width: 200px;
     color: #333;
-    margin: 50px;
+    margin: -10px;
     border-radius: 0 50px 50px 0; /* round shape on the right side */
   }
