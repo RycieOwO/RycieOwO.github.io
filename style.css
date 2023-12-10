@@ -3,7 +3,7 @@ html, label.logo, nav, *, shape, padding, nav ul {
     color: #9dc3f5;
 }
 
-nav ul, a, #check, .checkbtn {
+nav ul, a, #check, .checkbtn, i {
     cursor: url('hand-pointer-solid.svg'), auto;
 }
 
