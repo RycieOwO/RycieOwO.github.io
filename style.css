@@ -144,3 +144,20 @@ a.active,a:hover {
     /* MORE STYLEEEE*/
     box-shadow: 5px 10px 15px 0px rgba(0,0,0,0.15);
 }
+
+.shape h2 {
+    font-size: 150%;
+    width: 70px;
+}
+
+.shape a {
+    font-family: "Ubuntu Condensed", sans-serif;
+    color: #cbcbcb;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+.shape a:hover {
+    color: #cea135;
+    letter-spacing: 2px;
+}
