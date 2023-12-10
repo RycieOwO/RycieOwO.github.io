@@ -142,5 +142,5 @@ a.active,a:hover {
     margin: -10px;
     border-radius: 0 150px 150px 0; /* round shape on the right side */
     /* MORE STYLEEEE*/
-    box-shadow: 5px 10px 15px 0px rgba(0,0,0,0.3);
+    box-shadow: 5px 10px 15px 0px rgba(0,0,0,0.15);
 }
