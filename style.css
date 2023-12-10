@@ -1,12 +1,14 @@
 html, label.logo, nav, *, shape, #check, .checkbtn, padding, nav ul {
     cursor: url('hand-solid.svg'), auto;
     color: #9dc3f5;
-    filter: drop-shadow(3px 5px 2px rgb(0 0 0 / 0.4));
 }
 
 nav ul, a {
     cursor: url('hand-pointer-solid.svg'), auto;
-    filter: drop-shadow(3px 5px 2px rgb(0 0 0 / 0.4));
+}
+
+cursor {
+    filter: drop-shadow(3px 5px 2px rgb(0 0 0 / 0.2));
 }
 
 * {
@@ -135,7 +137,7 @@ a.active,a:hover {
     font-size: 30px;
     z-index: 3;
     padding: 30px 30px 0 30px;
-    text-shadow: 5px 10px 15px 0px rgba(0,0,0,0.5);
+    text-shadow: 5px 10px 15px 0px rgba(0,0,0,0.2);
 }
 
 .shape {
