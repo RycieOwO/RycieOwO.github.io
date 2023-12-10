@@ -1,6 +1,5 @@
 html, label.logo, nav, *, shape, padding, nav ul {
     cursor: url('hand-solid.svg'), auto;
-    color: #9dc3f5;
 }
 
 nav ul, a, #check, .checkbtn, i {
@@ -85,6 +84,7 @@ a.active,a:hover {
 @media (max-width: 858px) {
     .checkbtn {
         display: block;
+        z-index: 5;
     }
     nav ul {
     	position: fixed;
