@@ -1,7 +1,7 @@
 html, a, label.logo, nav, *, shape, #check, .checkbtn, padding, nav ul {
     cursor: url(hand-solid.svg), auto;
     color: #9dc3f5;
-    shadow-text: 5px 10px 15px 0px rgba(0,0,0,0.15);
+    shadow-text: 5px 10px 15px 0px rgba(0,0,0,0.5);
 }
 
 * {
