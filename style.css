@@ -182,7 +182,7 @@ a.active,a:hover {
     width: 60%;
     height: 300px;
     color: #333;
-    margin-left: auto;
+    margin-left: initial;
     margin-top: 20%;
     border-radius: 150px 0 0 150px; /* round shape on the left side */
     /* MORE STYLEEEE*/
