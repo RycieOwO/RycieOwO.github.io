@@ -134,7 +134,7 @@ a.active,a:hover {
     transform: translate(-50%, -50%);
     color: white;
     font-size: 30px;
-    z-index: 3;
+    z-index: 4;
     padding: 30px 30px 0 30px;
     text-shadow: 5px 10px 15px 0px rgba(0,0,0,0.2);
 }
@@ -155,7 +155,7 @@ a.active,a:hover {
     border-radius: 0 150px 150px 0; /* round shape on the right side */
     /* MORE STYLEEEE*/
     box-shadow: 5px 10px 15px 0px rgba(0,0,0,0.15);
-    z-index: 2;
+    z-index: 3;
 }
 
 .shape h2 {
@@ -193,7 +193,7 @@ a.active,a:hover {
     border-radius: 150px 0 0 150px; /* round shape on the left side */
     /* MORE STYLEEEE*/
     box-shadow: 5px 10px 15px 0px rgba(0,0,0,0.15);
-    z-index: 1;
+    z-index: 2;
 }
 
 .shape1 h2 {
@@ -210,6 +210,43 @@ a.active,a:hover {
 }
 
 .shape1 a:hover {
+    color: #25cbf5;
+    letter-spacing: 2px;
+}
+
+.shape2 {
+    position: relative;
+    background: #f0f0f0;
+    padding: 20px;
+    /* HMM */
+    text-align: center;
+    display: flex;
+    align-items: center;
+    /* HMM */
+    width: 60%;
+    height: 300px;
+    color: #333;
+    margin: -10px;
+    border-radius: 0 150px 150px 0; /* round shape on the right side */
+    /* MORE STYLEEEE*/
+    box-shadow: 5px 10px 15px 0px rgba(0,0,0,0.15);
+    z-index: 1;
+}
+
+.shape2 h2 {
+    font-size: 300%;
+    position: relative;
+    left: 30%;
+}
+
+.shape2 a {
+    font-family: "Ubuntu Condensed", sans-serif;
+    color: #cbcbcb;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+.shape2 a:hover {
     color: #25cbf5;
     letter-spacing: 2px;
 }
