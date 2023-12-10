@@ -131,10 +131,9 @@ a.active,a:hover {
     background: #f0f0f0;
     padding: 20px;
     text-align: center;
-    width: 200px;
+    width: 300px;
+    height: 600px;
     color: #333;
-    margin: 50px;
+    margin: -10px;
     border-radius: 0 50px 50px 0; /* round shape on the right side */
-    display: inline-block;
-    vertical-align: baseline;
-  }
+}
