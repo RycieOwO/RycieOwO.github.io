@@ -106,15 +106,15 @@ a.active,a:hover {
         	left: -10px;
         	}
 }
-
-.proj-bg {
+    
+    .proj-bg {
     height: 80vh;
     background: rgb(2, 0, 36);
     background: linear-gradient(292deg, rgba(2, 0, 36, 1) 0%, rgba(162, 162, 188, 1) 77%, rgba(117, 203, 220, 1) 100%);
     position: relative;
 }
-
-.text-proj {
+    
+    .text-proj {
     text-align: center;
     position: relative;
     top: 5%;
