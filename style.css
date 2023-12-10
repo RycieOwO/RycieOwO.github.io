@@ -151,7 +151,7 @@ a.active,a:hover {
     align-items: center;
     /* HMM */
     width: 60%;
-    height: 50%;
+    height: 300px;
     color: #333;
     margin: -10px;
     border-radius: 0 150px 150px 0; /* round shape on the right side */
@@ -188,7 +188,7 @@ a.active,a:hover {
     align-items: center;
     /* HMM */
     width: 60%;
-    height: 50%;
+    height: 300px;
     color: #333;
     margin-left: auto;
     margin-top: 20%;
@@ -201,7 +201,7 @@ a.active,a:hover {
 .shape1 h2 {
     font-size: 300%;
     position: relative;
-    right: 30%;
+    right: -30%;
 }
 
 .shape1 a {
