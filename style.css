@@ -1,9 +1,9 @@
-html, label.logo, nav, *, shape, #check, .checkbtn, padding, nav ul {
+html, label.logo, nav, *, shape, padding, nav ul {
     cursor: url('hand-solid.svg'), auto;
     color: #9dc3f5;
 }
 
-nav ul, a {
+nav ul, a, #check, .checkbtn {
     cursor: url('hand-pointer-solid.svg'), auto;
 }
 
