@@ -119,7 +119,7 @@ a.active,a:hover {
 }
     
     .proj-bg {
-    height: 400vh;
+    height: 100%;
     position: relative;
     background: #B2FEFA;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #0ED2F7, #B2FEFA);  /* Chrome 10-25, Safari 5.1-6 */
