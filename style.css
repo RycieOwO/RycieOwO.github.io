@@ -248,3 +248,24 @@ a.active,a:hover {
     color: #25cbf5;
     letter-spacing: 2px;
 }
+
+
+.image-box {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .image-box img {
+    width: 100%;
+    height: auto;
+  }
+  .text-block {
+    position: relative;
+    bottom: 1px;
+    justify-content: center;
+    box-shadow: -10px 10px 0px 0px #000000;
+    color: black;
+    box-sizing: border-box;
+    border: 1px solid black;
+    display: inline-block;
+  }
