@@ -274,7 +274,7 @@ a.active,a:hover {
     box-sizing: border-box;
     border: 1px solid black;
     display: inline-block;
-    margin: 10px;
+    margin-bottom: 5px;
   }
 .text-block h1 {
     margin-top: 5px;
