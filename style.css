@@ -250,6 +250,10 @@ a.active,a:hover {
 }
 
 
+.image-box, .image-box img, .text-block, .text-block h1 {
+    z-index: 5;
+}
+
 .image-box {
     position: relative;
     text-align: center;
@@ -269,3 +273,8 @@ a.active,a:hover {
     border: 1px solid black;
     display: inline-block;
   }
+
+.text-block h1 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
